@@ -6,6 +6,7 @@ I'm Vitor Ribeiro, a 20 years old developer from Brazil, Minas Gerais and i'm a 
 
 ## Skills
 - 👨‍💻 C#, C, Python, Java, JavaScript, Godot Script and GML
+- 💽 SQL, MySQL
 - 🕹️ UnityEngine, Godot Engine, Game Maker Studio 2
 - 👁️ CSS
 
