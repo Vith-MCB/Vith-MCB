@@ -2,7 +2,7 @@
 I'm Vitor Ribeiro, a 20 years old developer from Brazil, Minas Gerais and i'm a huge Cruzeiro fan! 🦊
 
 - 💻 Information Systems at [PUC Minas](https://www.pucminas.br/main/Paginas/default.aspx)
-- 👥 Core team member at DITE : [Secretaria de educação](https://www.educacao.mg.gov.br/)
+- 👥 Core team member at ASI : [Secretaria de educação](https://www.educacao.mg.gov.br/)
 
 ## Skills
 - 👨‍💻 C#, C, Python, Java, JavaScript, Godot Script and GML
