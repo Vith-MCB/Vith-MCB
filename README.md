@@ -5,7 +5,7 @@ I'm Vitor Ribeiro, a 20 years old developer from Brazil, Minas Gerais and i'm a 
 - 👥 Core team member at ASI : [Secretaria de educação](https://www.educacao.mg.gov.br/)
 
 ## Skills
-- 👨‍💻 C#, C, Python, Java, JavaScript, Godot Script and GML
+- 👨‍💻 C#, C, Python, Java, JavaScript, R, Godot Script and GML
 - 💽 SQL, MySQL
 - 🕹️ UnityEngine, Godot Engine, Game Maker Studio 2
 - 👁️ CSS
