@@ -1,5 +1,5 @@
 ## Hey! 👋
-I'm Vitor Ribeiro, a 20 years old developer from Brazil, Minas Gerais and i'm a huge Cruzeiro fan! 🦊
+I'm Vitor Ribeiro, a 20 years old developer and Data Engineer from Brazil, Minas Gerais and i'm a huge Cruzeiro fan! 🦊
 
 - 💻 Information Systems at [PUC Minas](https://www.pucminas.br/main/Paginas/default.aspx)
 - 👥 Core team member at ASI : [Secretaria de educação](https://www.educacao.mg.gov.br/)
