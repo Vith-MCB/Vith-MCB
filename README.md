@@ -10,7 +10,6 @@ I'm Vitor Ribeiro, a 20 years old developer and Data Engineer from Brazil, Minas
 - 🕹️ UnityEngine, Godot Engine, Game Maker Studio 2
 - 👁️ CSS
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vith-MCB&show_icons=true&theme=gruvbox&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact
 - [Vitor Ribeiro Lacerda](https://www.linkedin.com/in/vitor-ribeiro-lacerda-02202724b/) on Linkedin
