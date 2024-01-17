@@ -5,8 +5,8 @@ I'm Vitor Ribeiro, a 21 years old developer and Data Engineer at the Education M
 - 👥 Core team member at ASI : [Secretaria de educação](https://www.educacao.mg.gov.br/)
 
 ## Skills
-- 👨‍💻 C#, C, Python, PySpark, Java, JavaScript, R, Godot Script and GML
-- 💽 SQL, MySQL
+- 👨‍💻 C#, C, Python, Java, JavaScript, R, Godot Script and GML
+- 💽 SQL, MySQL, PySpark
 - 🕹️ UnityEngine, Godot Engine, Game Maker Studio 2 (GML)
 - 👁️ CSS
 - 🌐 Microsoft Azure and Synapse
