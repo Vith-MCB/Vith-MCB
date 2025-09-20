@@ -2,7 +2,7 @@
 I'm Vitor Ribeiro, a 22 years old developer and Data Engineer at the Education Ministry of Minas Gerais Government.
 
 - 💻 Information Systems at [PUC Minas](https://www.pucminas.br/main/Paginas/default.aspx)
-- 👥 Core team member at ASI : [Secretaria de educação](https://www.educacao.mg.gov.br/)
+- 👥 Core team member at Inter&CO
 
 ## Skills
 - 👨‍💻 C#, C, Python, Java, JavaScript, R, Godot Script and GML
