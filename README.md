@@ -1,5 +1,5 @@
 ## Hey! 👋
-I'm Vitor Ribeiro, a 22 years old developer and Data Engineer at the Education Ministry of Minas Gerais Government.
+I'm Vitor Ribeiro, a 23 years old Data Analyst and Data Engineer at Inter & CO.
 
 - 💻 Information Systems at [PUC Minas](https://www.pucminas.br/main/Paginas/default.aspx)
 - 👥 Core team member at Inter&CO
