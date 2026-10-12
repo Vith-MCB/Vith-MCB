@@ -1,5 +1,5 @@
 ## Hey! 👋
-I'm Vitor Ribeiro, a 23 years old Data Analyst and Data Engineer at Inter & CO.
+I'm Vitor Ribeiro, a 24 years old Data Analyst and Data Engineer at Inter & CO.
 
 - 💻 Information Systems at [PUC Minas](https://www.pucminas.br/main/Paginas/default.aspx)
 - 👥 Core team member at Inter&CO
